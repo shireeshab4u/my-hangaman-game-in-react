@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-hangaman-game-in-react/static/css/main.f35d71fe.chunk.css",
+    "main.js": "/my-hangaman-game-in-react/static/js/main.ebfd0af1.chunk.js",
+    "main.js.map": "/my-hangaman-game-in-react/static/js/main.ebfd0af1.chunk.js.map",
+    "runtime-main.js": "/my-hangaman-game-in-react/static/js/runtime-main.2570f483.js",
+    "runtime-main.js.map": "/my-hangaman-game-in-react/static/js/runtime-main.2570f483.js.map",
+    "static/js/2.0d1233c1.chunk.js": "/my-hangaman-game-in-react/static/js/2.0d1233c1.chunk.js",
+    "static/js/2.0d1233c1.chunk.js.map": "/my-hangaman-game-in-react/static/js/2.0d1233c1.chunk.js.map",
+    "index.html": "/my-hangaman-game-in-react/index.html",
+    "static/css/main.f35d71fe.chunk.css.map": "/my-hangaman-game-in-react/static/css/main.f35d71fe.chunk.css.map",
+    "static/js/2.0d1233c1.chunk.js.LICENSE.txt": "/my-hangaman-game-in-react/static/js/2.0d1233c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2570f483.js",
+    "static/js/2.0d1233c1.chunk.js",
+    "static/css/main.f35d71fe.chunk.css",
+    "static/js/main.ebfd0af1.chunk.js"
+  ]
+}
